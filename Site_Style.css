@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 0, 0);
+} 
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 100px;
+}
+
+#Meowdy{
+    margin-right: 100px;
+}
+
+header{
+    text-align: center;
+}
